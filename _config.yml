@@ -21,7 +21,7 @@ authors:
     email: dqdongg@hotmail.com
     web: https://github.com/gangdong
     #twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    description: "I am a technical developer from China, like to travel and experience different customs."
   john:
     name: david dong
     display_name: David.D    
@@ -30,7 +30,7 @@ authors:
     email: dqdongg@hotmail.com
     #web: https://www.wowthemes.net
     #twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    description: "I am a technical developer from China, like to travel and experience different customs."
 
 # Plugins
 plugins:
