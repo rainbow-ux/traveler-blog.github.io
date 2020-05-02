@@ -1,5 +1,5 @@
 # Site
-name: "Memoirs"
+name: "DAVID DONG'S ALBUM"
 title: "DAVID DONG's ALBUM"
 description: "Welcome to my album, I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
 logo: 'assets/images/logo.png'
@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 baseurl: 'https://rainbow-ux.github.io/traveler-blog.github.io'
 #google_analytics: 'UA-xxxxxxxx-1'
 #disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
 email: dqdongg@hotmail.com
