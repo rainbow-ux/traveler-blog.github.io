@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Education must also train one for quick, resolute and effective thinking."
-author: john
+author: David.D
 categories: [ Lifestyle ]
 image: https://rainbow-ux.github.io/traveler-blog.github.io/assets/images/3.jpg
 beforetoc: "Prism highlighter is a very powerful thing. In this article I'm going to show you what you can actually do with it, some tricks and tips while editing your post. Tocs is also enabled as you can see in summary."

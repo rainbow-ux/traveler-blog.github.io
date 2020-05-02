@@ -4,7 +4,7 @@ title: "DAVID DONG's ALBUM"
 description: "Welcome to my album, I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: 'https://rainbow-ux.github.io/traveler-blog.github.io/'
+baseurl: 'https://rainbow-ux.github.io/traveler-blog.github.io'
 #google_analytics: 'UA-xxxxxxxx-1'
 #disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -15,9 +15,9 @@ email: wowthemesnet@gmail.com
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    name: david dong
+    display_name: Dvid.D
+    gravatar: 9dca3a7704caf613ce73fc12f909e8a3
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net/donate/
     twitter: https://twitter.com/wowthemesnet
