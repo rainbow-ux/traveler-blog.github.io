@@ -11,7 +11,7 @@ disqus: disable
 include: ["_pages"]
 permalink: /:title/
 email: dqdongg@hotmail.com
-
+authorbox: enabled
 # Authors
 authors:
   sal:
