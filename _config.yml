@@ -11,7 +11,7 @@ disqus: disable
 include: ["_pages"]
 permalink: /:title/
 email: dqdongg@hotmail.com
-authorbox: enabled
+
 # Authors
 authors:
   sal:
@@ -71,7 +71,7 @@ adsense-data-ad-slot: "1363087678"
 lazyimages: "disabled"
 
 # Post Author Box ("enabled" or "disabled")
-authorbox: "disabled"
+authorbox: "enabled"
 
 # Sass
 sass:
