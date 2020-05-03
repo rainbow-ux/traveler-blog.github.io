@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spoliers Inside - a film review needs hidden spoilers like this post"
-author: john
+author: david
 categories: [ Lifestyle ]
 tags: [ Movies ]
 image: assets/images/12.jpg
