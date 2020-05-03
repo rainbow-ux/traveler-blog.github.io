@@ -1,8 +1,8 @@
-# Welcome to my traveler blog
+# Welcome to my traveler blog!
 
-This is my traveler blog. This blog collected some of interesting stories and photos during my travel experience. I love to experience different sceneries and customs all around world, which always brings me the beauty of nature and endless power. I hope these blog will bring the same feeling to you, I hope you like it.
+#### This is my traveler blog. This blog collected some of interesting stories and photos during my travel experience. I love to experience different sceneries and custom all around world, which always make me feel the beauty of nature and bring endless power to me. I hope these blogs will bring the same feeling to you, I hope you like it.
 
-If you would like to learn more about me. you can visit my another blog or homepage.<br>
+#### If you would like to learn more about me. you can visit my another blog and homepage.<br>
 
 [David Dong's Blog](https://gangdong.github.io/daviddong.github.io/) | [Github homepage](https://github.com/gangdong/) | [LinkedIn](https://www.linkedin.com/in/刚-董-25208ba0/)
 
