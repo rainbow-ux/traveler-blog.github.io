@@ -1,6 +1,6 @@
 # Welcome to my traveler blog!
 
-#### This is my traveler blog. This blog collected some of interesting stories and photos during my travel experience. I love to experience different sceneries and custom all around world, which always make me feel the beauty of nature and bring endless power to me. I hope these blogs will bring the same feeling to you, I hope you like it.
+#### This is my traveler blog. This blog collected some of interesting stories and photos during my travel experience. I love to experience different sceneries and custom all around the world, which always make me feel the beauty of nature and bring endless power to me. I hope these posts will bring the same feeling to you, I hope you like it.
 
 #### If you would like to learn more about me. you can visit my another blog and homepage.<br>
 
