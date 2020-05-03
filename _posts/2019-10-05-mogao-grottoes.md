@@ -12,9 +12,9 @@ The Mogao Grottoes were built in the period of Sixteen Kingdoms. In the Northern
 
 There are more than 500 caves in Dunhuang Grottoes, of which 492 are paintings and colored sculptures. As the main body of Dunhuang art, color sculpture includes Buddha, Bodhisattva, disciple, King Kong, Lishi, God, etc.<br>
 ！[painting01](https://rainbow-ux.github.io/traveler-blog.github.io/assets/images/2019-10-05/2019-10-05-mogaogrottoes-01.jpg)
-！[painting01](https://rainbow-ux.github.io/traveler-blog.github.io/assets/images/2019-10-05/2019-10-05-mogaogrottoes-02.jpg)<br>
+！[painting02](https://rainbow-ux.github.io/traveler-blog.github.io/assets/images/2019-10-05/2019-10-05-mogaogrottoes-02.jpg)<br>
 The grotto murals are rich and colorful, with various Buddhist Scripture stories, mountains and rivers, pavilions and other architectural paintings, landscape paintings, flower patterns, flying Buddha statues and various scenes produced by the working people at that time. They are the artistic representation of the folk customs and historical changes of more than 1500 years from the 16th country to the Qing Dynasty, magnificent and magnificent.<br>
-！[painting01](https://rainbow-ux.github.io/traveler-blog.github.io/assets/images/2019-10-05/2019-10-05-mogaogrottoes-03.jpeg)<br>
+！[painting03](https://rainbow-ux.github.io/traveler-blog.github.io/assets/images/2019-10-05/2019-10-05-mogaogrottoes-03.jpeg)<br>
 莫高窟，俗称千佛洞，坐落在河西走廊西端的敦煌。它始建于十六国的前秦时期，历经十六国、北朝、隋、唐、五代、西夏、元等历代的兴建，形成巨大的规模，有洞窟735个，壁画4.5万平方米、泥质彩塑2415尊，是世界上现存规模最大、内容最丰富的佛教艺术地。
 
 莫高窟始建于十六国时期，北魏、西魏和北周时，统治者崇信佛教，石窟建造得到王公贵族们的支持，发展较快。隋唐时期，随着丝绸之路的繁荣，莫高窟更是兴盛，在武则天时有洞窟千余个。北宋、西夏和元代，莫高窟渐趋衰落，仅以重修前朝窟室为主，新建极少。
