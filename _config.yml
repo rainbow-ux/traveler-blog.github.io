@@ -31,7 +31,15 @@ authors:
     #web: https://www.wowthemes.net
     #twitter: https://twitter.com/wowthemesnet
     description: "I am a technical developer from China, I love to travel and experience different customs."
-
+  David.D:
+    name: david dong
+    display_name: David.D    
+    #avatar: 'assets/images/avatar.png'
+    gravatar: 9dca3a7704caf613ce73fc12f909e8a3
+    email: dqdongg@hotmail.com
+    #web: https://www.wowthemes.net
+    #twitter: https://twitter.com/wowthemesnet
+    description: "I am a technical developer from China, I love to travel and experience different customs."
 # Plugins
 plugins:
   - jekyll-paginate
