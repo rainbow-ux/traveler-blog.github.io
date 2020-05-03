@@ -6,7 +6,7 @@ comments: false
 image: assets/images/screenshot.jpg
 imageshadow: true
 ---
-The blog itself is created on Github Pages with memoirs theme and hosted with Github. If you like it, you fork it at Github.  
+The blog itself is created on Github Pages with memoirs theme and hosted with Github. If you like it, welcome fork it at Github.  
 
 <a target="_blank" href="https://github.com/rainbow-ux/traveler-blog.github.io/" class="btn btn-dark"> Get source code from Github &rarr;</a>
 
