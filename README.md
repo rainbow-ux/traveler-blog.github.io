@@ -4,6 +4,6 @@ This is my traveler blog. This blog collected some of interesting stories and ph
 
 If you would like to learn more about me. you can visit my another blog or homepage.<br>
 
-[David Dong's Blog](https://gangdong.github.io/daviddong.github.io/) | [Github homepage](https://github.com/gangdong/)
+[David Dong's Blog](https://gangdong.github.io/daviddong.github.io/) | [Github homepage](https://github.com/gangdong/) | [LinkedIn](https://www.linkedin.com/in/刚-董-25208ba0/)
 
 ![memoirs](https://bootstrapstarter.com/assets/img/themes/memoirs-jekyll.jpg)
