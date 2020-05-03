@@ -14,15 +14,15 @@ email: dqdongg@hotmail.com
 
 # Authors
 authors:
-  sal:
+  david:
     name: david dong
     display_name: David.D
     gravatar: 9dca3a7704caf613ce73fc12f909e8a3
     email: dqdongg@hotmail.com
     web: https://github.com/gangdong
     #twitter: https://twitter.com/wowthemesnet
-    description: "I am a technical developer from China, like to travel and experience different customs."
-  john:
+    description: "I am a technical developer from China, love to travel and experience different customs."
+  david.d:
     name: david dong
     display_name: David.D    
     #avatar: 'assets/images/avatar.png'
@@ -30,7 +30,7 @@ authors:
     email: dqdongg@hotmail.com
     #web: https://www.wowthemes.net
     #twitter: https://twitter.com/wowthemesnet
-    description: "I am a technical developer from China, like to travel and experience different customs."
+    description: "I am a technical developer from China, I love to travel and experience different customs."
 
 # Plugins
 plugins:
