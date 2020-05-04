@@ -5,7 +5,7 @@ author: david
 categories: [ Travel ]
 tags: [ China ]
 image: https://rainbow-ux.github.io/traveler-blog.github.io/assets/images/2019-10-07/2019-10-07-colorful-mountain-02.jpg
-comments: false
+comments: true
 rating: 4
 ---
 Have you ever seen one colorful mountain on the earth? Yes, a mountain with all kinds of colors, looks like a painting in front of you. In China, there is such a mountain called colorful Danxia. 

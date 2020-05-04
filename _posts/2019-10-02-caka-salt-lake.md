@@ -5,6 +5,7 @@ author: david
 categories: [ Travel ]
 tags: [ China ]
 image: https://rainbow-ux.github.io/traveler-blog.github.io/assets/images/2019-10-02/2019-10-02-caka-salt-lake-cover.jpg
+rating: 4
 ---
 When I first came to Chaka Salt Lake and saw the scene of the salt lake, I was shocked. You can't imagine such clear and bright lake water in the plateau area with an altitude of 3000 meters. Like a mirror, the calm lake reflects the beautiful and suffocating sky scenery, reflecting the surrounding snow mountain scene on the lake, known as the "mirror of China's sky". In the world of salt, walking on the lake is like walking on the cloud top, as if flying in a dream paradise. 
 

@@ -4,7 +4,7 @@ title:  "Pearl on the Silk Road: Mogao Grottoes"
 author: David.D
 categories: [ Travel ]
 image: https://rainbow-ux.github.io/traveler-blog.github.io/assets/images/2019-10-05/2019-10-05-mogaogrottoes-cover.jpg
-comments: false
+comments: true
 ---
 Mogao Grottoes, commonly known as thousand Buddha Caves, are located in Dunhuang at the west end of Hexi corridor. It was first built in the pre Qin period of the sixteen countries. After the construction of the sixteen countries, the Northern Dynasties, Sui, Tang, Five Dynasties, Xixia, yuan and other dynasties, it has formed a huge scale, with 735 caves, 45000 square meters of murals, 2415 clay colored sculptures. It is the largest and richest Buddhist art place in the world.
 
