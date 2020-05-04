@@ -15,8 +15,6 @@ Chaka Salt Lake is an inland lake. Due to plate movement, the junction of Eurasi
 
 Chaka Salt Lake before and after sunrise and sunset is the most beautiful period of salt lake scenery. Colorful clouds, sunrise or sunset reflect the salt lake, forming a picture of water and sky. 
 
-The annual rainfall in the lake area is small, the amount of water injected into it is especially small, and the evaporation is strong, so its salt content is very high. Because of the minerals in the salt crystal, the salt crystal is blue black, so it is called "green salt". 
-
 
 当我第一次来到茶卡盐湖，见到盐湖的景象时，我被震惊了。你不会想象到在海拔3000米的高原地带，会有如此清澈明亮的湖水，平静的湖面像镜子一样，反射着美丽的令人窒息的天空景色，将四周环绕的雪山景象倒影在湖面上，被誉为“中国天空之镜”，置身于盐的世界，漫步湖面如行走云端之上，仿佛翱翔梦中天堂。
 
@@ -25,5 +23,3 @@ The annual rainfall in the lake area is small, the amount of water injected into
 茶卡盐湖为内陆湖泊，由于板块运动，原被海水所覆盖的亚欧板块与印度洋板块的交界地带逐渐隆起为青藏高原。在青藏高原的形成过程中，部分海水积留在低洼地带，形成了许多盐湖和池塘，茶卡盐湖就是其中之一。
 
 日出日落前后的茶卡盐湖为盐湖风光最美的时段，彩云、朝阳或夕阳照映盐湖，形成水天一色的画面。
-
-湖区年降雨量小，每年注入其中的水量特别少，加上蒸发强烈，故其含盐量极高。因其盐晶中含有矿物质，使盐晶呈青黑色，故称“青盐”。
