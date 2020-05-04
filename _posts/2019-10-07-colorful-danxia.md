@@ -3,7 +3,7 @@ layout: post
 title:  "Colorful mountain, the beauty of nature: Danxia Landform "
 author: david
 categories: [ Travel ]
-image: https://rainbow-ux.github.io/traveler-blog.github.io/assets/images/2019-10-07/2019-10-07-colorful-mountain-01.jpg
+image: https://rainbow-ux.github.io/traveler-blog.github.io/assets/images/2019-10-07/2019-10-07-colorful-mountain-02.jpg
 comments: false
 ---
 Have you ever seen one colorful mountain on the earth? Yes, a mountain with all kinds of colors, looks like a painting in front of you. In China, there is such a mountain called colorful Danxia. 
@@ -12,7 +12,7 @@ Zhangye Danxia Landform is concentrated predominantly in Linze a
 
 The Zhangye's palace danxia formations and its colorful hills cover about 300 square kilometers.
 Zhangye Danxia Landform is surrounded by colorful hills, which seem to rise and fall like waves: with rock strata of different colors mixed in graceful disarray, it is an imposing and magnificent sight. 
-
+![colormountain01](https://rainbow-ux.github.io/traveler-blog.github.io/assets/images/2019-10-07/2019-10-07-colorful-mountain-03.jpg)
 In addition, the Danxia landform has gorgeous colors due to the organic sediments. You can see various colors, like red, yellow, organe, green, white, black, gray, etc. making the place so colorful and splendid. In the day, the mountains are like brightly colored silks or colorful gemstones. Besides, with the changes of time and weather, the colors vary constantly, adding the visual shock of tourists.
 
 Its character is unique in China, so it was nominated by the "China National Geographic" as the top 7 Danxia Landforms in the country.
