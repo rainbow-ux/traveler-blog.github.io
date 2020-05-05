@@ -4,7 +4,7 @@ title:  "Colorful mountain, the beauty of nature: Danxia Landform "
 author: david
 categories: [ Travel ]
 tags: [ China ]
-image: https://rainbow-ux.github.io/traveler-blog.github.io/assets/images/2019-10-07/2019-10-07-colorful-mountain-02.jpg
+image: https://rainbow-ux.github.io/traveler-blog.github.io/assets/images/2019-10-07/2019-10-07-colorful-mountain-01.jpg
 comments: true
 rating: 4
 ---
