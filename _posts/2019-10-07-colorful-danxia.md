@@ -8,7 +8,7 @@ image: https://rainbow-ux.github.io/traveler-blog.github.io/assets/images/2019-1
 comments: true
 rating: 4
 ---
-Have you ever seen one colorful mountain on the earth? Yes, a mountain with all kinds of colors, looks like a painting in front of you. In China, there is such a mountain called  Zhangye colorful Danxia. 
+Have you ever seen a colorful mountain on the earth? Yes, a mountain with all kinds of colors, looks like a painting in front of you. In China, there is such a mountain called  Zhangye colorful Danxia. 
 
 Zhangye Danxia Landform is concentrated predominantly in Linze and Sunan counties in Gansu Province. It is both the largest and the most typical of China's arid area danxia landforms. Because of aridity, the Zhangye Danxia Landform differs from that of south China. It is very dry and desolate, without any vegetation, so geologists call this "window lattice and palace-shaped Danxia topography”. The Zhangye Danxia landform is also known as the eye candy of Zhangye. Many artists admire this masterpiece as it appears like a perfect painting on canvas. 
 
