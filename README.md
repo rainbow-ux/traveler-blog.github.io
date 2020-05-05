@@ -6,4 +6,4 @@
 
 [David Dong's Blog](https://gangdong.github.io/daviddong.github.io/) | [Github homepage](https://github.com/gangdong/) | [LinkedIn](https://www.linkedin.com/in/刚-董-25208ba0/)
 
-![memoirs](https://bootstrapstarter.com/assets/img/themes/memoirs-jekyll.jpg)
+![cover](https://rainbow-ux.github.io/traveler-blog.github.io/assets/images/screenshot.png)
