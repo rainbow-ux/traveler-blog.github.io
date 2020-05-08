@@ -4,7 +4,7 @@ title:  "Suspend Temple, one of the wonders of the world"
 author: david
 categories: [ Travel ]
 tags: [ China ]
-image: https://rainbow-ux.github.io/traveler-blog.github.io/assets/images/2018-10-05/2018-10-05-cover.jpg
+image: assets/images/2018-10-05/2018-10-05-cover.jpg
 comments: true
 rating: 4
 ---
@@ -16,7 +16,7 @@ The hanging Temple of Hengshan is based on half inserted flying beams with mecha
 
 When I visit the temple, I feel that the temple seems to fall down from the sky. I look up from the bottom of the mountain. I don't think it's a pavilion built on the hillside, but it's like a painter's hand splashing ink on the cliff, painted on the cliff, and an old picture hanging in front of you. I'm shocked by it. It can not only make people feel the uncanny workmanship of nature, but also praise the ancient people's wonderful skills and wisdom.
 
-![suspend temple](https://rainbow-ux.github.io/traveler-blog.github.io/assets/images/2018-10-05/2018-10-05-02.jpg)
+![suspend temple]({{site.baseurl}}/assets/images/2018-10-05/2018-10-05-02.jpg)
 
 Xuankong Temple is not only breathtaking in appearance, strange and spectacular, but also has distinctive architectural structure and colorful forms. It not only integrates the art of Chinese garden architecture, but also integrates the pattern of Chinese traditional architecture.
 

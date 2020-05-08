@@ -3,11 +3,11 @@ name: "DAVID DONG'S ALBUM"
 title: "DAVID DONG's ALBUM"
 description: "Welcome to my album, I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
 baseurl: '/traveler-blog.github.io'
 #google_analytics: 'UA-xxxxxxxx-1'
 disqus: disable
-#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+#mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
 email: dqdongg@hotmail.com
@@ -17,28 +17,29 @@ authors:
   david:
     name: david dong
     display_name: David.D
+    avatar: 'assets/images/avatar.png'
     gravatar: 9dca3a7704caf613ce73fc12f909e8a3
     email: dqdongg@hotmail.com
     web: https://github.com/gangdong
-    #twitter: https://twitter.com/wowthemesnet
+    #twitter: 
     description: "I am a technical developer from China, love to travel and experience different customs."
   david.d:
     name: david dong
     display_name: David.D    
-    #avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/avatar.png'
     gravatar: 9dca3a7704caf613ce73fc12f909e8a3
     email: dqdongg@hotmail.com
-    #web: https://www.wowthemes.net
-    #twitter: https://twitter.com/wowthemesnet
+    web: https://github.com/gangdong
+    #twitter: 
     description: "I am a technical developer from China, I love to travel and experience different customs."
   David.D:
     name: david dong
     display_name: David.D    
-    #avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/avatar.png'
     gravatar: 9dca3a7704caf613ce73fc12f909e8a3
     email: dqdongg@hotmail.com
-    #web: https://www.wowthemes.net
-    #twitter: https://twitter.com/wowthemesnet
+    web: https://github.com/gangdong
+    #twitter: 
     description: "I am a technical developer from China, I love to travel and experience different customs."
 # Plugins
 plugins:
