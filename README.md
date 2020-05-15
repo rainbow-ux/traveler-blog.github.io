@@ -7,3 +7,9 @@
 [David Dong's Blog](https://gangdong.github.io/daviddong.github.io/blog/index.html) | [Github homepage](https://github.com/gangdong/) | [LinkedIn](https://www.linkedin.com/in/刚-董-25208ba0/)
 
 ![cover](https://rainbow-ux.github.io/traveler-blog.github.io/assets/images/screenshot.png)
+
+The blog itself is created on Github Pages with memoirs theme and hosted with Github. If you like it, welcome fork it at Github.  
+
+About the memoris theme.
+
+<a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/jekyll-theme-memoirs/" class="btn btn-dark"> Get Memoirs for Jekyll &rarr;</a>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: This website is an exhibition of my travel experiences. Different cultures and customs will always bring different feelings to people. I hope you can feel beauty and strength from theses photos. I hope you enjoy it.
+title: This website is an exhibition of my travel experiences. Different cultures and customs will always bring different feelings to people. I hope you can feel beauty from theses photos. I hope you enjoy it.
 permalink: /about
 comments: false
 image: assets/images/screenshot.png
