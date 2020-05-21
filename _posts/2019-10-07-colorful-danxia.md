@@ -13,8 +13,10 @@ Have you ever seen a colorful mountain on the earth? Yes, a mountain with all ki
 Zhangye Danxia Landform is concentrated predominantly in Linze and Sunan counties in Gansu Province. It is both the largest and the most typical of China's arid area danxia landforms. Because of aridity, the Zhangye Danxia Landform differs from that of south China. It is very dry and desolate, without any vegetation, so geologists call this "window lattice and palace-shaped Danxia topography”. The Zhangye Danxia landform is also known as the eye candy of Zhangye. Many artists admire this masterpiece as it appears like a perfect painting on canvas. 
 
 The Zhangye's palace danxia formations and its colorful hills cover about 300 square kilometers.
-Zhangye Danxia Landform is surrounded by colorful hills, which seem to rise and fall like waves: with rock strata of different colors mixed in graceful disarray, it is an imposing and magnificent sight. 
+Zhangye Danxia Landform is surrounded by colorful hills, which seem to rise and fall like waves: with rock strata of different colors mixed in graceful disarray, it is an imposing and magnificent sight.
+ 
 ![colormountain01]({{site.baseurl}}/assets/images/2019-10-07/2019-10-07-colorful-mountain-03.jpg)
+
 In addition, the Danxia landform has gorgeous colors due to the organic sediments. You can see various colors, like red, yellow, organe, green, white, black, gray, etc. making the place so colorful and splendid. In the day, the mountains are like brightly colored silks or colorful gemstones. Besides, with the changes of time and weather, the colors vary constantly, adding the visual shock of tourists.
 
 Its character is unique in China, so it was nominated by the "China National Geographic" as the top Landforms in the country.

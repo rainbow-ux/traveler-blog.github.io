@@ -9,7 +9,7 @@ image: assets/images/2018-03-01/2018-03-01-cover.jpg
 
 The Sahara is a desert located on the African continent. It is the largest hot desert in the world, and the third largest desert overall after Antarctica and the Arctic. Its area of 9,200,000 square kilometres (3,600,000 sq mi) is comparable to the area of China or the United States.[3] The name 'Sahara' is derived from a dialectal Arabic word for "desert", ṣaḥra (صحرا /ˈsˤaħra/).
 
-![sahala]({{site.baseurl}}/assets/images/2018-03-01/2018-03-01-sahala-desert-00.jpeg)
+![sahala]({{site.baseurl}}/assets/images/2018-03-01/2018-03-01-sahala-desert-00.jpg)
 
 The desert comprises much of North Africa, excluding the fertile region on the Mediterranean Sea coast, the Atlas Mountains of the Maghreb, and the Nile Valley in Egypt and Sudan. It stretches from the Red Sea in the east and the Mediterranean in the north to the Atlantic Ocean in the west, where the landscape gradually changes from desert to coastal plains. 
 

@@ -10,10 +10,13 @@ Mogao Grottoes, commonly known as thousand Buddha Caves, are located in Dunhuang
 
 The Mogao Grottoes were built in the period of Sixteen Kingdoms. In the Northern Wei, Western Wei and Northern Zhou dynasties, the rulers believed in Buddhism. The construction of the grottoes was supported by the princes and nobles, and developed rapidly. During the Sui and Tang Dynasties, with the prosperity of the Silk Road, Mogao Grottoes flourished, with more than a thousand caves in Empress Wu. In the Northern Song Dynasty, the Western Xia Dynasty and the Yuan Dynasty, the Mogao Grottoes gradually declined, mainly to rebuild the former dynasty grottoes, but rarely to build new ones.
 
-There are more than 500 caves in Dunhuang Grottoes, of which 492 are paintings and colored sculptures. As the main body of Dunhuang art, color sculpture includes Buddha, Bodhisattva, disciple, King Kong, Lishi, God, etc.<br>
+There are more than 500 caves in Dunhuang Grottoes, of which 492 are paintings and colored sculptures. As the main body of Dunhuang art, color sculpture includes Buddha, Bodhisattva, disciple, King Kong, Lishi, God, etc.
+
 ![painting01]({{site.baseurl}}/assets/images/2019-10-05/2019-10-05-mogaogrottoes-01.jpg)
-![painting02]({{site.baseurl}}/assets/images/2019-10-05/2019-10-05-mogaogrottoes-02.jpg)<br>
+![painting02]({{site.baseurl}}/assets/images/2019-10-05/2019-10-05-mogaogrottoes-02.jpg)
+
 The grotto murals are rich and colorful, with various Buddhist Scripture stories, mountains and rivers, pavilions and other architectural paintings, landscape paintings, flower patterns, flying Buddha statues and various scenes produced by the working people at that time. They are the artistic representation of the folk customs and historical changes of more than 1500 years from the 16th country to the Qing Dynasty, magnificent and magnificent.<br>
+
 ![painting03]({{site.baseurl}}/assets/images/2019-10-05/2019-10-05-mogaogrottoes-03.jpeg)<br>
 
 
