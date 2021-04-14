@@ -5,6 +5,7 @@ description: "Welcome to my album, I will take you on the fabulous world of expl
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/traveler-blog.github.io'
+cdn_baseurl: https://cdn.jsdelivr.net/gh/rainbow-ux/traveler-blog.github.io@master
 #google_analytics: 'UA-xxxxxxxx-1'
 disqus: disable
 #mailchimp-list: ''

@@ -15,7 +15,7 @@ Zhangye Danxia Landform is concentrated predominantly in Linze a
 The Zhangye's palace danxia formations and its colorful hills cover about 300 square kilometers.
 Zhangye Danxia Landform is surrounded by colorful hills, which seem to rise and fall like waves: with rock strata of different colors mixed in graceful disarray, it is an imposing and magnificent sight.
  
-![colormountain01]({{site.baseurl}}/assets/images/2019-10-07/2019-10-07-colorful-mountain-03.jpg)
+![colormountain01]({{site.cdn_baseurl}}/assets/images/2019-10-07/2019-10-07-colorful-mountain-03.jpg)
 
 In addition, the Danxia landform has gorgeous colors due to the organic sediments. You can see various colors, like red, yellow, organe, green, white, black, gray, etc. making the place so colorful and splendid. In the day, the mountains are like brightly colored silks or colorful gemstones. Besides, with the changes of time and weather, the colors vary constantly, adding the visual shock of tourists.
 
