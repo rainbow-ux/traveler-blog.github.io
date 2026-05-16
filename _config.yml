@@ -18,7 +18,7 @@ authors:
   david:
     name: david dong
     display_name: David.D
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/avatar.jpg'
     gravatar: 9dca3a7704caf613ce73fc12f909e8a3
     email: dqdongg@hotmail.com
     web: https://github.com/gangdong
@@ -27,7 +27,7 @@ authors:
   david.d:
     name: david dong
     display_name: David.D    
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/avatar.jpg'
     gravatar: 9dca3a7704caf613ce73fc12f909e8a3
     email: dqdongg@hotmail.com
     web: https://github.com/gangdong
@@ -36,7 +36,7 @@ authors:
   David.D:
     name: david dong
     display_name: David.D    
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/avatar.jpg'
     gravatar: 9dca3a7704caf613ce73fc12f909e8a3
     email: dqdongg@hotmail.com
     web: https://github.com/gangdong
